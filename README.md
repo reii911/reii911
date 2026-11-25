@@ -28,10 +28,11 @@
 #### Mission Control
 
 <p align="center">
-  <img src="./rocket-space.svg" alt="pixel rocket to space" width="100%" />
+  <a href="https://reii911.github.io/rocket-game/">
+    <img src="./rocket-space.svg" alt="Klik buat main" width="100%" />
+  </a>
 </p>
-
-
+<p align="center"><b>🚀 Klik roketnya buat main!</b></p>
 --------------------------------------
 ![yo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppeXE3ZzJxZnlhMmhjeDcya2tpNDd5MHJzdzZwMHh0ZXI5bjg3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h3vcLd29JFLD79gnSC/giphy.gif)
 --------------------------------------
