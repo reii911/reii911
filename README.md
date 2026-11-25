@@ -25,6 +25,12 @@
 ##### Github stats
 ![Reii's GitHub stats](https://github-readme-stats.vercel.app/api?username=reii911&theme=algolia&show_icons=true)
 
+#### Mission Control
+
+<p align="center">
+  <img src="./rocket-space.svg" alt="pixel rocket to space" width="100%" />
+</p>
+
 
 --------------------------------------
 ![yo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppeXE3ZzJxZnlhMmhjeDcya2tpNDd5MHJzdzZwMHh0ZXI5bjg3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h3vcLd29JFLD79gnSC/giphy.gif)
