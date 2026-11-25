@@ -1,6 +1,11 @@
 ### Hi lol,i'm reii
 ![yuki](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhtamdsdHFsdjY2NHhlbjJiZW5scTRycWZ1NGk4eDdjNWlrMm9seSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OBWggPIeZeaakuj5QH/giphy.gif)
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=0193DB&center=false&vCenter=true&repeat=true&width=600&height=45&lines=%3E+UI/UX+Designer;%3E+Frontend+Explorer;%3E+Information+Systems+Student" alt="Typing SVG" />
+</p>
+
+
 ##### About me
 
 **I'm an Information Systems student at _UIN Syarif Hidayatullah Jakarta_.**
@@ -10,7 +15,7 @@
 - 💻 Exploring Frontend Development
 - 🎨 Interested in creating intuitive and user-friendly digital experiences.
 
-##### Skills
+##### Currently learning
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2BlogoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
