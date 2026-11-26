@@ -29,7 +29,7 @@
 ##### Night Signal
 
 <p align="center">
-  <a href="https://reii911.github.io/rocket-game/">
+  <a href="https://reii911.github.io/night-signal/">
     <img src="./night-signal.svg" alt="NIGHT SIGNAL - klik buat main" width="100%" />
   </a>
 </p>
