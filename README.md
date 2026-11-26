@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://reii911.github.io/night-signal/">
-    <img src="./night-signal.svg" alt="NIGHT SIGNAL - klik buat main" width="100%" />
+    <img src="./night-signal.svg" alt="NIGHT SIGNAL - klik buat main" width="75%" />
   </a>
 </p>
 
