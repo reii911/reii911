@@ -28,11 +28,17 @@
 
 ##### Night Signal
 
+
 <p align="center">
   <a href="https://reii911.github.io/night-signal/">
-    <img src="./night-signal.svg" alt="NIGHT SIGNAL - klik buat main" width="75%" />
+    <img
+      src="https://raw.githubusercontent.com/reii911/night-signal/main/night_signal_noa_banner.gif"
+      width="85%"
+      alt="Night Signal - NOA"
+    />
   </a>
 </p>
+
 
 --------------------------------------
 ![yo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppeXE3ZzJxZnlhMmhjeDcya2tpNDd5MHJzdzZwMHh0ZXI5bjg3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h3vcLd29JFLD79gnSC/giphy.gif)
