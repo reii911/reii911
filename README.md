@@ -26,14 +26,6 @@
 ##### Github stats
 ![Reii's GitHub stats](https://github-readme-stats.vercel.app/api?username=reii911&theme=algolia&show_icons=true)
 
-#### Mission Control
-
-<p align="center">
-  <a href="https://reii911.github.io/rocket-game/">
-    <img src="./rocket-space.svg" alt="Klik buat main" width="100%" />
-  </a>
-</p>
-<p align="center"><b>🚀 Klik roketnya buat main!</b></p>
 
 
 --------------------------------------
