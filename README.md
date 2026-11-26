@@ -27,7 +27,7 @@
 ![Reii's GitHub stats](https://github-readme-stats.vercel.app/api?username=reii911&theme=algolia&show_icons=true)
 
 #### Night Signal
-<p align="center">
+<p align="left">
   <a href="https://reii911.github.io/night-signal/">
     <img
       src="https://raw.githubusercontent.com/reii911/night-signal/main/night_signal_noa_banner.gif"
