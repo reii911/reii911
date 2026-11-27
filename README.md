@@ -26,12 +26,19 @@
 ##### Github stats
 ![Reii's GitHub stats](https://github-readme-stats.vercel.app/api?username=reii911&theme=algolia&show_icons=true)
 
+#### Night Signal
+
 <p align="center">
-  <a href="https://reii911.github.io/rocket-game/">
+  <a href="https://reii911.github.io/night-signal/">
     <img src="./night-signal.svg" alt="Night Signal" width="100%" />
   </a>
+  <br />
+  <a href="https://reii911.github.io/night-signal/">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20PLAY-NIGHT%20SIGNAL-00AEFF?style=for-the-badge&labelColor=050F2C" alt="Play Night Signal" />
+  </a>
+  <br />
+  <sub>6 bosses · 5 difficulties · bisa dimainin di HP</sub>
 </p>
-
 --------------------------------------
 ![yo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHppeXE3ZzJxZnlhMmhjeDcya2tpNDd5MHJzdzZwMHh0ZXI5bjg3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h3vcLd29JFLD79gnSC/giphy.gif)
 --------------------------------------
