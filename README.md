@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://reii911.github.io/night-signal/">
-    <img src="./night-signal.svg" alt="Night Signal" width="100%" />
+    <img src="./night-signal.svg" alt="Night Signal" width="75%" />
   </a>
   <br />
   <a href="https://reii911.github.io/night-signal/">
